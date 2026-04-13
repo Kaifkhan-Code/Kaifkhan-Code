@@ -50,7 +50,7 @@
 - Built using React (Vite) & Material UI  
 - Integrated OpenWeather API for real-time data  
 - Responsive and clean UI  
-
+- Live : https://weather-app-kaif.vercel.app/
 ---
 
 ### 🔹 🏍️ Bike Management System
@@ -95,9 +95,10 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
+- 💼 LinkedIn: www.linkedin.com/in/md-kaif-alam-khan-7374a1321
 - 🌐 Portfolio: https://kaif-portfolio-seven.vercel.app/
-
+-     E Mail: kkaif9514@gmail.com
+- 
 ---
 
 ⭐ *“Building projects that solve real-world problems.”*
