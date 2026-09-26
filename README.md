@@ -53,6 +53,12 @@
 - Built with Node.js, Express.js, MongoDB, React.js, Docker
 - 🔗 Live:https://mini-erp-system-qwn8.vercel.app/login
 
+### 🔹 🏠 WanderLust
+- Airbnb-style full-stack rental listing app
+- MVC structure with MongoDB Atlas/Mongoose, Passport.js auth, Cloudinary image uploads
+- Built with Node.js, Express.js, MongoDB
+- 🔗 Live:https://air-bnb-clone-fdj8.onrender.com
+
 ### 🔹 🌐 Portfolio Website
 - Personal portfolio showcasing projects & skills
 - Built with React + Tailwind CSS
