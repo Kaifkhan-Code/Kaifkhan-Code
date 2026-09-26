@@ -44,12 +44,14 @@
 - Session-based auth with Passport.js + Mongo-backed sessions (connect-mongo)
 - External APIs powering a place-discovery module and an in-app travel assistant
 - Built with Node.js, Express.js, EJS (ejs-mate), MongoDB
+- 🔗 Live:https://www.jhartrails.duckdns.org/
 
 ### 🔹 📦 Mini Operations ERP
 - Full-stack ERP demo for inventory, work orders, transfers & order reservation
 - "Ops Pulse" dashboard with live KPIs and logic to prevent overselling
 - Role-based JWT/bcrypt auth, containerized with Docker Compose
 - Built with Node.js, Express.js, MongoDB, React.js, Docker
+- 🔗 Live:https://mini-erp-system-qwn8.vercel.app/login
 
 ### 🔹 🌐 Portfolio Website
 - Personal portfolio showcasing projects & skills
